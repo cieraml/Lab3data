@@ -7,3 +7,4 @@ food = c("pizza","wings","nachos")
 ffood = factor(food)
 
 #watch this 
+#practive 
